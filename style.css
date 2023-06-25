@@ -81,3 +81,9 @@
 .keys .key.action span{
   color: #26fed7;
 }
+.title{
+  display: flex;align-items: center;justify-content: center;
+  margin-top: 2.2rem;
+  color: #eb6666;
+  font-weight: 700;
+}
